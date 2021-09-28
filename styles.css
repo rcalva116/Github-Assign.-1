@@ -1,6 +1,7 @@
+@import url(https://fonts.googleapis.com/css?family=Chewy);
 h1 {
-  color: #89c8fd;
-  font-family: 'Franklin Gothic Medium';
+  color: #89c8fd; 
+  font-family: 'Chewy';
 }
 body {
   background-color: #f1fdfd;
@@ -8,30 +9,30 @@ body {
 
 h1 {
   font-size: 35px;
-  letter-spacing: -1px;
-  margin-top: 0;
-  margin-bottom: .125em;
-  text-align: center;
-
+  letter-spacing: -1px; 
+  margin-top: 0; 
+  margin-bottom: .125em; 
+  text-align: center; 
+  
 }
 
 p {
-  color: #003e72;
-  background: #FFD8CA;
+  color: #003e72; 
+  background: #FFD8CA; 
 }
 figure {
-  border: 1px solid pink;
-  padding: 12px;
-  padding-bottom: 24px;
-  color: #123a87;
+  border: 1px solid pink; 
+  padding: 12px; 
+  padding-bottom: 24px; 
+  color: #123a87; 
 }
 figure img {
-  width: 100%;
+  width: 100%; 
 }
 
 p img {
-  float: right;
-  max-width: 60%;
-  margin-left: 20px;
-  margin-bottom: 32px;
+  float: right; 
+  max-width: 60%; 
+  margin-left: 20px; 
+  margin-bottom: 32px; 
 }
