@@ -36,3 +36,11 @@ p img {
   margin-left: 20px; 
   margin-bottom: 32px; 
 }
+
+nav ul {
+ background-color: #fcbda9; 
+ display: inline-block; 
+ list-style: none; 
+ padding-left: 0; 
+ border: 1px solid #e39d88; 
+}
