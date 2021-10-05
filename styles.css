@@ -1,6 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Chewy);
 h1 {
-  color: #fcbda9; 
+  color: #0fb8b5; 
   font-family: 'Chewy';
 }
 body {
@@ -51,7 +51,7 @@ nav ul li {
 }
 
 nav ul li a {
-  color: #fcbda9;
+  color: #072c3d;
   text-decoration: none; 
   padding: 8px; 
   border-bottom: 1px solid #e39d88; 
