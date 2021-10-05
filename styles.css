@@ -1,10 +1,10 @@
 @import url(https://fonts.googleapis.com/css?family=Chewy);
 h1 {
-  color: #89c8fd; 
+  color: #017375; 
   font-family: 'Chewy';
 }
 body {
-  background-color: #f1fdfd;
+  background-color: #fafcfc;
 }
 
 h1 {
@@ -17,14 +17,14 @@ h1 {
 }
 
 p {
-  color: #003e72; 
-  background: #FFD8CA; 
+  color:#022f33; 
+  background: #ffa799; 
 }
 figure {
   border: 1px solid pink; 
   padding: 12px; 
   padding-bottom: 24px; 
-  color: #123a87; 
+  color: #022f33; 
 }
 figure img {
   width: 100%; 
@@ -38,7 +38,7 @@ p img {
 }
 
 nav ul {
- background-color: #fcbda9; 
+ background-color: #fca083; 
  display: flex; 
  justify-content: flex-start; 
  list-style: none; 
