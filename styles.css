@@ -36,6 +36,16 @@ figure img {
   width: 100%; 
 }
 
+figure.main-image {
+  background: PalePink; 
+  border-color: #fadedc; 
+  color: black; 
+}
+
+figure.section-image {
+  
+}
+
 p img {
   float: right; 
   max-width: 60%; 
