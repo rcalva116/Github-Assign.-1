@@ -46,8 +46,7 @@ figure.section-image {
   float: right;
   margin-left: 20px; 
   margin-bottom: 32px;
-  max-width:320px; 
-  
+  max-width:320px;  
 }
 
 p img {
@@ -75,8 +74,7 @@ nav ul li a {
   text-decoration: none; 
   padding: 8px; 
   border-bottom: 1px solid #e39d88; 
-  display: block; 
-  
+  display: block;   
 }
 
 nav ul li a:hover {
