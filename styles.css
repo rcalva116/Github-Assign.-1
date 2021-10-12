@@ -13,24 +13,24 @@ h1#site-title {
   margin-top: 0; 
   margin-bottom: .125em; 
   text-align: center; 
-
 }
 
 h1#article-title {
   font-size: 48px;
-  letter-spacing: 1.50px;
 }
 
 p {
   color:#022f33; 
   background: #ffa799; 
 }
+
 figure {
   border: 1px solid pink; 
   padding: 12px; 
   padding-bottom: 24px; 
   color: #022f33; 
 }
+
 figure img {
   width: 100%; 
 }
