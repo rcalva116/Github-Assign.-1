@@ -1,10 +1,10 @@
 @import url(https://fonts.googleapis.com/css?family=Chewy);
 h1 {
-  color: #00a396; 
+  color: #000000; 
   font-family: 'Chewy';
 }
 body {
-  background-color: #d9ffff;
+  background-color: #edffff;
 }
 
 h1#site-title {
@@ -22,7 +22,7 @@ h1#article-title {
 
 p {
   color: #000000;
-  background: #ffc8bf; 
+  background: #fabdaa; 
 }
 
 figure {
@@ -37,7 +37,7 @@ figure img {
 }
 
 figure.main-image {
-  background: #fad7d4; 
+  background: ##fabdaa; 
   border-color: #fadedc; 
   color: black; 
 }
