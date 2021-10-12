@@ -29,7 +29,7 @@ figure {
   border: 1px solid pink; 
   padding: 12px; 
   padding-bottom: 24px; 
-  color: #022f33; 
+  color: #000000; 
 }
 
 figure img {
@@ -57,7 +57,7 @@ nav ul li {
 }
 
 nav ul li a {
-  color: #072c3d;
+  color: #000000;
   text-decoration: none; 
   padding: 8px; 
   border-bottom: 1px solid #e39d88; 
