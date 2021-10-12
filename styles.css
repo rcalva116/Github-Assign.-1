@@ -22,11 +22,11 @@ h1#article-title {
 
 p {
   color: #000000;
-  background: #ffebe8;
+  background: #e6ad9c;
 }
 
 figure {
-  border: 1px solid #bfe0e0; 
+  border: 2px solid #bfe0e0; 
   padding: 12px; 
   padding-bottom: 24px; 
   color: #000000; 
