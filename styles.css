@@ -16,13 +16,13 @@ h1#site-title {
 }
 
 h1#article-title {
-  font-size: 55px;
-  letter-spacing: 1.50px;
+  font-size: 65px;
+  letter-spacing: 2px;
 }
 
 p {
   color: #000000;
-  background: #fabdaa; 
+  background: #ffd6c9;
 }
 
 figure {
