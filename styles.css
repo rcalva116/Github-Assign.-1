@@ -7,13 +7,17 @@ body {
   background-color: #fafcfc;
 }
 
-h1 {
+h1#site-title {
   font-size: 35px;
   letter-spacing: 1.25px; 
   margin-top: 0; 
   margin-bottom: .125em; 
   text-align: center; 
-  
+
+}
+
+h1#article-title {
+  font-size: 48px;
 }
 
 p {
