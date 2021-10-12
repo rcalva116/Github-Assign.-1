@@ -21,8 +21,8 @@ h1#article-title {
 }
 
 p {
-  color:#022f33; 
-  background: #ffa799; 
+  color: #000000;
+  background: #fff0ed; 
 }
 
 figure {
@@ -54,7 +54,6 @@ nav ul {
 }
 
 nav ul li {
-  display: inline-block;
  }
 
 nav ul li a {
