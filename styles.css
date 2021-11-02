@@ -25,6 +25,12 @@ p {
   background: #e6ad9c;
 }
 
+img {
+  width: 100%; 
+  height: auto; 
+  
+}
+
 figure {
   border: 2px solid #bfe0e0; 
   padding: 12px; 
@@ -34,6 +40,8 @@ figure {
 
 figure img {
   width: 100%; 
+  height: auto; 
+  
 }
 
 figure.main-image {
@@ -42,11 +50,13 @@ figure.main-image {
   color: black; 
 }
 
+@media all and (min-width: 768px) {
 figure.section-image {
   float: right;
   margin-left: 20px; 
   margin-bottom: 32px;
   max-width:320px;  
+  }
 }
 
 p img {
@@ -58,12 +68,18 @@ p img {
 
 nav ul {
  background-color: #fca083; 
- display: flex; 
- justify-content: flex-start; 
  list-style: none; 
  padding-left: 0; 
  border: 1px solid #e39d88; 
  text-align: center;
+}
+
+@media all and (min-width: 376px) {
+  nav ul {
+     display: flex; 
+     justify-content: flex-start; 
+     gap: 30px; 
+  }
 }
 
 nav ul li {
