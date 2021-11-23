@@ -7,6 +7,25 @@ body {
   background-color: #edffff;
 }
 
+#message {
+  background: #E9FFE4; 
+  border: 1px solid #178201; 
+  padding: 20px 40px; 
+  margin: 12px 0; 
+  border-radius: 4px; 
+  opacity: 1; 
+  transition: opacity .2s ease; 
+}
+
+#message.dismissed {
+  opacity: 0; 
+  height: 0; 
+}
+
+#message button {
+  float: right; 
+}
+
 h1#site-title {
   font-size: 75px;
   letter-spacing: 1.25px; 
@@ -22,7 +41,7 @@ h1#article-title {
 
 p {
   color: #000000;
-  background: #e6ad9c;
+  background: fca083;
 }
 
 img {
@@ -32,7 +51,7 @@ img {
 }
 
 figure {
-  border: 2px solid #bfe0e0; 
+  border: 5px solid #fca083; 
   padding: 12px; 
   padding-bottom: 24px; 
   color: #000000; 
@@ -45,8 +64,8 @@ figure img {
 }
 
 figure.main-image {
-  background: #fabdaa; 
-  border-color: #bfe0e0;
+  background: white; 
+  border-color: #fca083;
   color: black; 
 }
 
